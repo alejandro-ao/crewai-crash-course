@@ -1,13 +1,17 @@
 # Crew AI Autonomous Agents Tutorial
 
+Quick links: 
+- [YouTube Tutorial](https://youtu.be/kBXYFaZ0EN0)
+- Crew AI: [Website](https://crewai.com) | [Documentation](https://docs.crewai.com) 
+- [Blog Post](https://alejandro-ao.com/crew-ai-crash-course-step-by-step)
+
 > Discover how to create intelligent, autonomous agents with Crew AI in our step-by-step video tutorial on [YouTube](https://youtu.be/your_video_link).
 
 ## Introduction
-------------
+
 Dive deep into the fascinating world of Crew AI and learn how to build your autonomous agents from scratch. This project is a comprehensive guide to understanding and implementing Crew AI's capabilities to design intelligent systems that can perform tasks autonomously, think for themselves, and work together as a crew. 
 
 ## How It Works
-------------
 
 ![Crew AI Workflow Diagram](./docs/crewai-diagram2.jpg)
 
@@ -24,7 +28,7 @@ The tutorial covers the following key concepts and steps:
 5. **Running the Crew:** Instructions on how to kick off your crew, allowing the autonomous agents to execute the defined tasks and achieve the project's goal.
 
 ## Dependencies and Installation
-----------------------------
+
 To get started with the Crew AI tutorial project, please follow these steps:
 
 1. Clone the repository to your local machine.
@@ -38,13 +42,13 @@ To get started with the Crew AI tutorial project, please follow these steps:
    
 
 ## Usage
------
+
 Follow the video tutorial!
 
 ## Contributing
-------------
+
 This project is designed for educational purposes as part of a comprehensive YouTube tutorial on Crew AI. While this repository serves as a foundation for learning and exploration, we encourage you to fork it and experiment with creating your own autonomous agents and crews based on the concepts taught.
 
 ## License
----
+
 This Crew AI Autonomous Agents Tutorial project is released under the [MIT License](https://opensource.org/licenses/MIT).
